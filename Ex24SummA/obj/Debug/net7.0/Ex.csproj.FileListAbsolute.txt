@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\bin\Debug\net7.0\Ex.exe
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\bin\Debug\net7.0\Ex.deps.json
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\bin\Debug\net7.0\Ex.runtimeconfig.json
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\bin\Debug\net7.0\Ex.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\bin\Debug\net7.0\Ex.pdb
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\refint\Ex.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.pdb
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\Ex.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\Ex24SummA\obj\Debug\net7.0\ref\Ex.dll

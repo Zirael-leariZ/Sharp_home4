@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\bin\Debug\net7.0\ex27SummOfDigit.exe
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\bin\Debug\net7.0\ex27SummOfDigit.deps.json
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\bin\Debug\net7.0\ex27SummOfDigit.runtimeconfig.json
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\bin\Debug\net7.0\ex27SummOfDigit.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\bin\Debug\net7.0\ex27SummOfDigit.pdb
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\refint\ex27SummOfDigit.dll
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.pdb
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ex27SummOfDigit.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework\Sharp_home4\ex27SummOfDigit\obj\Debug\net7.0\ref\ex27SummOfDigit.dll
